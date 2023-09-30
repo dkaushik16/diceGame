@@ -11,7 +11,9 @@
 }
 
 body {
-  background-color: #393E46;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 75%, rgba(0,212,255,1) 100%);
+  height:100vh;
 }
 
 h1 {
@@ -39,8 +41,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-.gradient-background{
-  background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 75%, rgba(0,212,255,1) 100%);
-  height:100vh;
-}
+
